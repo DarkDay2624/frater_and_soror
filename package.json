@@ -7,7 +7,7 @@
     "server": "nodemon app.js"
   },
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
